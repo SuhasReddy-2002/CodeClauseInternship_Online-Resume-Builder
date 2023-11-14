@@ -24,23 +24,7 @@ This project has been done in Ecilipse IDE. It uses Windows Builder and Swing fo
 Resume creation without the hassle of writing code for it. Will be a good resume builder for beginners and people who are not familiar with LateX. 
 
 ## Project status 
-Returns a resume file with all the data entered in a formatted manner. The file name of the resume returned is **Resume.txt**.
-
-## Future Scope/Plan of the Project
-
-1. **Formatting Options**
- 
- The present project returns a fixed formatted text file of the resume. The next step is to provide various formatting options for the user while giving the information.
-   Formatting options like -
-   
-    * headings
-    * subheadings
-    * lists
-    * normal text
-    * quotes
-    * hyperlinks
-    * alignment
-    and all other necessary options.
+Returns a resume file with all the data entered in a formatted manner. The file name of the resume 
   
 2. **Templates**
     * Default Templates
